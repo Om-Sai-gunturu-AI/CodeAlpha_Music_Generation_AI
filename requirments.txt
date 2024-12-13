@@ -1,0 +1,9 @@
+tensorflow
+keras
+music21
+pretty_midi
+numpy
+pandas
+matplotlib
+
+
